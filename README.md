@@ -41,8 +41,8 @@ The dataset includes employee-level information such as:
 
 It also includes company-level data like industry, country, and employee count.  
 
-*Ref 1: Raw Dataset*  
-![Raw Data](link-to-image)
+*Ref 1: SQL Left Join, Right Join, Join codes*  
+![Raw Data](https://github.com/ganeshdevsahadevan-hub/MNC-EMPLOYEE-DATA-ANALYSIS/blob/main/SQLCODE%20GANESHDEV%20SAHADEVAN.pdf)
 
 ---
 
