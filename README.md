@@ -88,7 +88,8 @@ Key insights derived:
 - Identification of potential pay gaps  
 
  *Ref 5: Final Report*  
-![Report](link-to-image)
+![Report](https://github.com/ganeshdevsahadevan-hub/MNC-EMPLOYEE-DATA-ANALYSIS/blob/main/power%20bi%202.png)
+![Dashboard](https://github.com/ganeshdevsahadevan-hub/MNC-EMPLOYEE-DATA-ANALYSIS/blob/main/power%20bi%201.png)
 
 ---
 
