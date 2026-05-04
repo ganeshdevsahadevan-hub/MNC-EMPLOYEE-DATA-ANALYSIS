@@ -51,9 +51,6 @@ It also includes company-level data like industry, country, and employee count.
 - Handled inconsistent formats (e.g., tenure in months/years)  
 - Checked missing values and corrected data types  
 
- *Ref 2: Cleaned Dataset*  
-![Cleaned Data](link-to-image)
-
 ---
 
 ### 3. Exploratory Data Analysis (EDA)  
@@ -62,9 +59,6 @@ Key analysis performed:
 - Gender-wise workforce distribution  
 - Department-wise employee count  
 - Experience vs income patterns  
-
-*Ref 3: EDA Insights*  
-![EDA](link-to-image)
 
 ---
 
