@@ -76,7 +76,7 @@ Developed interactive dashboards showing:
 - Experience vs salary trends  
 
  *Ref 4: Power BI Dashboard*  
-![Dashboard](link-to-image)
+![Dashboard](https://github.com/ganeshdevsahadevan-hub/MNC-EMPLOYEE-DATA-ANALYSIS/blob/main/power%20bi%201.png)
 
 ---
 
