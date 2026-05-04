@@ -1,5 +1,5 @@
-# MNC-EMPLOYEE-DATA-ANALYSIS
-Human Resource Data
+# MNC-Employee-Data-Analysis
+People/Human Resource Data Analytics
 
 ## Objective  
 The HR Data Analytics project aimed to analyse employee and organisational data to uncover actionable insights related to workforce demographics, income distribution, job roles, and organisational structure.  
